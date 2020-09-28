@@ -33,7 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Publications
 ### JOURNAL
 
-[1].	**M. He**, J. He, and S. Scherer, [Model-based real-time robust controller for a small helicopter](https://www.sciencedirect.com/science/article/pii/S0888327020304088) in Mechanical Systems and Signal Processing, vol. 146, p. 107022, 2021.
+[1].	[**M. He**](https://scholar.google.com.hk/citations?user=iYU24jUAAAAJ&hl=en), J. He, and [S. Scherer](https://scholar.google.com.hk/citations?user=gxoPfIYAAAAJ&hl=en), [Model-based real-time robust controller for a small helicopter](https://www.sciencedirect.com/science/article/pii/S0888327020304088) in Mechanical Systems and Signal Processing, vol. 146, p. 107022, 2021.
 
 [2].	**M. He** and J. He, [A Dynamic Enhanced Robust Cubature Kalman Filter for the State Estimation of an Unmanned Autonomous Helicopter](https://ieeexplore.ieee.org/abstract/document/8864061), in IEEE Access, vol. 7, pp. 148531-148540, 2019.
 
