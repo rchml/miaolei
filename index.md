@@ -31,7 +31,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Publications
 ### JOURNAL
 
-[1].	**M. He**, J. He, and S. Scherer, “Model-based real-time robust controller for a small helicopter,” in Mechanical Systems and Signal Processing, vol. 146, p. 107022, 2021. 
+[1].	**M. He**, J. He, and S. Scherer, “Model-based real-time robust controller for a small helicopter,” in Mechanical Systems and Signal Processing, vol. 146, p. 107022, 2021.
+[pdf](https://www.sciencedirect.com/science/article/pii/S0888327020304088)
 [2].	**M. He** and J. He, "A Dynamic Enhanced Robust Cubature Kalman Filter for the State Estimation of an Unmanned Autonomous Helicopter," in IEEE Access, vol. 7, pp. 148531-148540, 2019.
 [3].	**He, M.**, Ren, C., He, J., Wu, K., Zhao, Y., Wang, Z. and Wu, C. (2019), "Design, analysis and experiment of an eight-wheel robotic vehicle with four-swing arms", Industrial Robot, Vol. 46 No. 5, pp. 682-691  
 [4].	**M. He** and J. He, Extended State Observer-Based Robust Backstepping Sliding Mode Control for a Small-Size Helicopter, in IEEE Access, vol. 6, 2018, pp. 33480-33488. 
