@@ -1,6 +1,6 @@
 ## Biography
 
- I received my PH.D. degree in Mechatronic Engineering from Central South University,2019. As a full-time lecture in Hunan Normal University now, I was a visiting student of [the AIR LAB](https://theairlab.org/), The Robostics Institute, Carnegie Mellon University, advised by Associate Research Professor[Sebastian Scherer](https://scholar.google.com.hk/citations?user=gxoPfIYAAAAJ&hl=en).
+ I received my PH.D. degree in Mechatronic Engineering from Central South University,2019. As a full-time lecture in Hunan Normal University now, I was a visiting student of [the AIR LAB](https://theairlab.org/), Robostics Institute, Carnegie Mellon University, advised by Associate Research Professor[Sebastian Scherer](https://scholar.google.com.hk/citations?user=gxoPfIYAAAAJ&hl=en).
 
  My research interest is around robot, now planning focus on environment perception and motiong planning.   
 
