@@ -7,7 +7,7 @@
 
 
 ### News
-30/9/2020 One paper has been accepted by IROS 2020！ More details are coming.
+30/9/2020, One paper has been accepted by IROS 2020！ More details are coming.
 
 
 ### Publications
