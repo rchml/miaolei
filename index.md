@@ -30,3 +30,4 @@
 ### CONFERENCE
 
 [1].	[**M. He**](https://scholar.google.com.hk/citations?user=iYU24jUAAAAJ&hl=en), Jilin He, Modeling and Robust Attitude Controller Design for a Small Size Helicopter, 20th IEEE IES ICIT, 2019, February, Melbourne Australia. 
+[2][**M. He**](https://ieeexplore.ieee.org/document/9341528), J. He, C. Ren and Q. He, "A Horse Inspired Eight-wheel Unmanned Ground Vehicle with Four-swing Arms," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 7723-7728, doi: 10.1109/IROS45743.2020.9341528.
