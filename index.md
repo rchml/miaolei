@@ -24,7 +24,7 @@ Now, i'm a lecturer in Hunan Normal University.
 
 [6].	[**M. He**](https://scholar.google.com.hk/citations?user=iYU24jUAAAAJ&hl=en), Jilin He, [A real-time H∞ cubature Kalman filter based on SVD and its application to a small unmanned helicopter](https://www.sciencedirect.com/science/article/abs/pii/S0030402617304102), Optik - International Journal for Light and Electron Optics, Volume 140,2017, Pages 96-103.
 
-[67].  [**M. He**](https://scholar.google.com.hk/citations?user=iYU24jUAAAAJ&hl=en), H. Jilin, and Z. Xuanyi, [Robust Flight Control of a Small Unmanned Helicopter](http://en.cnki.com.cn/Article_en/CJFDTotal-JQRR201603010.htm), ROBOT, vol. 38, no. 3, pp. 337–342, 2016.  
+[7].  [**M. He**](https://scholar.google.com.hk/citations?user=iYU24jUAAAAJ&hl=en), H. Jilin, and Z. Xuanyi, [Robust Flight Control of a Small Unmanned Helicopter](http://en.cnki.com.cn/Article_en/CJFDTotal-JQRR201603010.htm), ROBOT, vol. 38, no. 3, pp. 337–342, 2016.  
 
 
 
